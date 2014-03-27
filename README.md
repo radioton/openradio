@@ -27,4 +27,4 @@ In countries such as Chile and other Latin American countries , the radio, espec
 
 OpenRadio is an ongoing project, which is updated from the collective knowledge and input of information, tools and tips from everyone. You can help by posting on the issues this repository section or participating in the editing of documents https://github.com/NWLPFM/openradio/wiki
 
-We also encourage translations of all content into other languages!
+We also encourage forking this repo and making translations of all content into other languages!
